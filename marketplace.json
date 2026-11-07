@@ -1,0 +1,9 @@
+{
+  "name": "cartoon-short-kit",
+  "plugins": [
+    {
+      "name": "cartoon-short-kit",
+      "path": "./"
+    }
+  ]
+}
